@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GroceryApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sort">Sort</string>
+    <string name="filter">Filter</string>
+    <string name="price_highest_to_lowest">Price - Highest to Lowest</string>
+    <string name="price_lowest_to_highest">Price - Lowest to Highest</string>
+    <string name="date_latest_to_oldest">Date - Latest to Oldest</string>
+    <string name="date_oldest_to_latest">Date - Oldest to Latest</string>
+    <string name="market">Market</string>
+    <string name="district">District</string>
+</resources>
